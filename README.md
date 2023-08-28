@@ -41,6 +41,12 @@ Note Log：
 
 23/8/22 update 21 CH2 Training Tip
 
-23/8/24 finish 21 CH5 Transformer
 23/8/23 update 21 CH2 Training Tip
+
+23/8/24 finish 21 CH5 Transformer
+
 23/8/26 finish 21 CH6 GAN
+
+23/08/27 finish 21 CH7 Self-Supervised Learning
+
+23/08/28 finish 21 CH8 Auto-encoder/Anomaly Detection
