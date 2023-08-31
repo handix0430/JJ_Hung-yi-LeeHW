@@ -52,3 +52,5 @@ Note Log：
 23/08/28 finish 21 CH8 Auto-encoder/Anomaly Detection
 
 23/08/29 finish 21 CH9 Explainable ML
+
+23/08/31 finish 21 CH10 Adversarial Attack CH11 Domain Adaption
