@@ -55,4 +55,6 @@ Note Log：
 
 23/08/31 finish 21 CH10 Adversarial Attack CH11 Domain Adaption
 
-23/09/31 finish 21 CH12 RL Intro
+23/09/01 finish 21 CH12 RL Intro
+
+23/09/02 finish 21 CH13 Network Compression
