@@ -5,6 +5,8 @@ My note：https://www.wolai.com/kilig0430/syrfuuRJ7tKQr1kQv73iYH
 
 为个人草稿。
 
+---
+
 Repository Log：
 
 23/7/20 update HW1. 加了点自己看的注释，靠着chatGPT写了点Strong Baseline。
@@ -58,3 +60,5 @@ Note Log：
 23/09/01 finish 21 CH12 RL Intro
 
 23/09/02 finish 21 CH13 Network Compression
+
+23/09/03 finish 21 CH14 LLL
